@@ -85,6 +85,7 @@ Aqui estão as ferramentas e linguagens que utilizo nos meus projetos:
 
 
 </div>
+<img src="https://raw.githubusercontent.com/alanypaz/alanypaz/main/0d99d513-1b99-4303-81d7-2db13f3ef9d0.png" width="180px" />
 
 
 

@@ -6,7 +6,7 @@
 
 # 👩🏻‍💻 Sobre Mim 
 
-! Me chamo Alany e sou estudante de Ciência da Computação apaixonada por tecnologia e programação.
+Me chamo Alany e sou estudante de Ciência da Computação apaixonada por tecnologia e programação.
 Atualmente estou aprimorando minhas habilidades em desenvolvimento web, lógica de programação e cibersegurança, enquanto desenvolvo projetos e aprendo novas tecnologias todos os dias.
 🌱 Estudando JavaScript e linguagem C
 💻 Interesse em Back-End e Cibersegurança
@@ -61,3 +61,29 @@ Aqui estão as ferramentas e linguagens que utilizo nos meus projetos:
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanypaz&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
+
+---
+
+## 🌐 Contato
+
+<div align="center">
+
+<a href="https://github.com/alanypaz" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:seuemail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+```
+

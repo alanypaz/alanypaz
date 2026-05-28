@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Alany Paz 
+# 👋 Oiee, eu sou  Alany Paz 
 
 - 🎓 **Estudante de Ciência da Computação** (Centro Universitário Anhanguera)
 - 💻 **Busco Oportunidade de Estágio** em Desenvolvimento Web / Frontend

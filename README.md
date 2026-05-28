@@ -85,7 +85,7 @@ Aqui estão as ferramentas e linguagens que utilizo nos meus projetos:
 
 
 </div>
-```
+
 
 
 

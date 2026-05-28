@@ -87,7 +87,7 @@ Aqui estão as ferramentas e linguagens que utilizo nos meus projetos:
 </div>
 
 <div align="center">
-  <img width="600" height="600" alt="download20260504165107" src="https://github.com/user-attachments/assets/87fb1529-140c-4d50-aada-6b464e0b089e" />
+  <img width="400" height="400" alt="download20260504165107" src="https://github.com/user-attachments/assets/87fb1529-140c-4d50-aada-6b464e0b089e" />
 </div>
 
 

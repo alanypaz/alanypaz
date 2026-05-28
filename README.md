@@ -64,6 +64,9 @@ Aqui estão as ferramentas e linguagens que utilizo nos meus projetos:
 
 ---
 
+
+---
+
 ## 🌐 Contato
 
 <div align="center">
@@ -72,13 +75,20 @@ Aqui estão as ferramentas e linguagens que utilizo nos meus projetos:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/alany-s-7b5b3b35b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/" target="_blank">
+<a href="https://www.instagram.com/circuitsirenn" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+<a href="mailto:alany_jesusteama@hotmail.com">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
+</div>
+```
 
 <a href="mailto:seuemail@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>

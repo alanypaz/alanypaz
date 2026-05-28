@@ -7,8 +7,8 @@
 # 👩🏻‍💻 Sobre Mim 
 
 Me chamo Alany e sou estudante de Ciência da Computação apaixonada por tecnologia e programação.
-Atualmente estou aprimorando minhas habilidades em desenvolvimento web, lógica de programação e cibersegurança, enquanto desenvolvo projetos e aprendo novas tecnologias todos os dias.
-🌱 Estudando JavaScript e linguagem C
+Atualmente estou aprimorando minhas habilidades em desenvolvimento web, lógica de programação e banco de dados, enquanto desenvolvo projetos e aprendo novas tecnologias todos os dias.
+🌱 Estudando JavaScript e React
 💻 Interesse em Back-End e Cibersegurança
 📚 Sempre aprendendo coisas novas
 ✨ Apaixonada por tecnologia e interfaces criativas

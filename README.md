@@ -4,7 +4,7 @@
 - 💻 **Busco Oportunidade de Estágio** em Desenvolvimento Web / Frontend
 - 📍 Duque de Caxias, Rio de Janeiro - Brasil
 
-# Sobre Mim 👩🏻‍💻
+# 👩🏻‍💻 Sobre Mim 
 
 ! Me chamo Alany e sou estudante de Ciência da Computação apaixonada por tecnologia e programação.
 Atualmente estou aprimorando minhas habilidades em desenvolvimento web, lógica de programação e cibersegurança, enquanto desenvolvo projetos e aprendo novas tecnologias todos os dias.
@@ -52,3 +52,12 @@ Aqui estão as ferramentas e linguagens que utilizo nos meus projetos:
 </div>
 
 ---
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanypaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanypaz&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>

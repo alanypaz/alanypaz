@@ -83,17 +83,9 @@ Aqui estão as ferramentas e linguagens que utilizo nos meus projetos:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:alany_jesusteama@hotmail.com">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
 
 </div>
 ```
 
-<a href="mailto:seuemail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
-</div>
-```
 
